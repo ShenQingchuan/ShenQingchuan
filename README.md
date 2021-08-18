@@ -10,7 +10,7 @@ I'm working for Bytedance（字节跳动）—— Lark Mail.
 ### Activities
 
 - 🔭 I’m currently working on [docs-cn](https://github.com/vitejs/docs-cn) maintaining ...
-- 🌱 I’m currently learning [WindiCSS](https://windicss.org/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)、[WindiCSS](https://windicss.org/)
 - 📫 How to reach me: tmyeve@163.com
 
 ### Languages
