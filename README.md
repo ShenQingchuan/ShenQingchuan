@@ -1,5 +1,7 @@
 ### Hi，ShenQingchuan here! 👋
 
+❤️ 爱琳琳 · Love my Lynn ~
+
 ## About Me
 
 I am a front-end developer now, love Vue/Vite and open-source contribution.
