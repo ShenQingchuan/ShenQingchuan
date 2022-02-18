@@ -23,4 +23,6 @@ I'm working for Bytedance（字节跳动）—— Lark Mail.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/46062972/136497244-be103dd7-7bb0-4488-9727-655889b8ce0d.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code> 
+
 
