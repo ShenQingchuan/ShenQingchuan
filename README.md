@@ -6,7 +6,7 @@
 
 I am a front-end developer now, love Vue/Vite and open-source contribution.
 
-<img height="30" src="https://user-images.githubusercontent.com/46062972/119318178-8dd66680-bcab-11eb-86a9-7c9464880869.png">
+<img height="30" src="https://user-images.githubusercontent.com/46062972/158833561-3624456a-8851-4605-bddb-ef4ddf75f23c.png">
 I'm working for Bytedance（字节跳动）—— Lark Mail.
 
 ### Activities
