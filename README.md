@@ -1,8 +1,17 @@
 ### Hi，ShenQingchuan here! 👋
 
-❤️ 爱琳琳 · Love my Lynn ~
+<a href="#">
+    <h3 align="center">
+        <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="280">
+        <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="280">
+    </h3>
+    <h3 align="center">
+    </h3>
+</a>
 
 ## About Me
+
+> ❤️ 爱琳琳 · Love my Lynn ~
 
 I am a front-end developer now, love Vue/Vite and open-source contribution.
 
