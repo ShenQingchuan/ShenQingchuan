@@ -5,8 +5,6 @@
         <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="280">
         <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="280">
     </h3>
-    <h3 align="center">
-    </h3>
 </a>
 
 ## About Me
@@ -15,8 +13,10 @@
 
 I am a front-end developer now, love Vue/Vite and open-source contribution.
 
-<img height="30" src="https://user-images.githubusercontent.com/46062972/158833561-3624456a-8851-4605-bddb-ef4ddf75f23c.png">
-I'm working for Bytedance（字节跳动）—— Lark Mail.
+I'm working at Bytedance（字节跳动）—— Lark Mail.
+<h3 align="center">
+    <img height="70" src="https://user-images.githubusercontent.com/46062972/158833561-3624456a-8851-4605-bddb-ef4ddf75f23c.png">
+</h3>
 
 ### Activities
 
