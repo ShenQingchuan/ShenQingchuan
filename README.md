@@ -18,6 +18,9 @@
     <code><img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png"></code> 
 </p>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
+</div>
 <p align="center">
     <samp>
     I am a front-end developer now, love Vue/Vite and open-source contribution. <br>
@@ -25,9 +28,12 @@
     </samp>
 </p>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46062972/180124463-e698d9f2-7d1b-4fbc-bce5-f98c01c39bc5.png" height="60px" />
+</p>
+<p align="center">
+  <a href="https://discord.gg/4UV4U6vG"><b><em><spam>https://discord.gg/4UV4U6vG</spam></em></b></a>
+</p>
 
 <h3 align="center">Activities</h3>
 <div align="center">
