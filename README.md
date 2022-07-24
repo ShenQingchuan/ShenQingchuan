@@ -1,3 +1,7 @@
+<div align="center">
+<img width="60%" src="https://user-images.githubusercontent.com/46062972/180632902-a16aa6c4-b365-4232-b5af-8736bc7457be.png" />
+</div>
+
 <h3 align="center">Hi，ShenQingchuan here!</h1>
 
 <a href="#">
@@ -63,6 +67,6 @@
 
 <h3 align="center">“龙，答应我，收购苹果。”</h3>
 <div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
+<img width="340px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
 </div>
 
