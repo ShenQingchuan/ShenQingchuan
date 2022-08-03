@@ -68,5 +68,8 @@
 <h3 align="center">“龙，答应我，收购苹果。”</h3>
 <div align="center">
 <img width="340px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
+<span>&nbsp;&nbsp;&nbsp;</span>
+<img width="230px" src="https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/028JohnRomero_%E7%BD%97%E6%B0%B8%E6%B5%A9%F0%9F%94%A8BQB/%E7%BD%97%E6%B0%B8%E6%B5%A900003-%E9%A2%A0%E8%A6%86%E4%B8%9A%E7%95%8C%E6%94%B6%E8%B4%AD%E8%8B%B9%E6%9E%9C%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C.gif" />
 </div>
+
 
