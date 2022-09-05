@@ -36,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/46062972/180124463-e698d9f2-7d1b-4fbc-bce5-f98c01c39bc5.png" height="60px" />
 </p>
 <p align="center">
-  <a href="https://discord.gg/4UV4U6vG"><b><em><spam>https://discord.gg/4UV4U6vG</spam></em></b></a>
+  <a href="https://discord.gg/uGezZ3xMxy"><b><em><spam>https://discord.gg/uGezZ3xMxy</spam></em></b></a>
 </p>
 
 <h3 align="center">Activities</h3>
