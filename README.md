@@ -36,7 +36,8 @@
   <img src="https://user-images.githubusercontent.com/46062972/180124463-e698d9f2-7d1b-4fbc-bce5-f98c01c39bc5.png" height="60px" />
 </p>
 <p align="center">
-  <a href="https://discord.gg/uGezZ3xMxy"><b><em><spam>https://discord.gg/uGezZ3xMxy</spam></em></b></a>
+  <a href="https://discord.gg/uGezZ3xMxy"><b><em><spam>https://discord.gg/uGezZ3xMxy</spam></em></b></a> <br>
+  <a href="https://www.kookapp.cn/app/channels/1680614231520080/7765975899421527"><b><em><spam>大陆朋友还可以用 KOOK https://www.kookapp.cn/app/channels/1680614231520080/7765975899421527</spam></em></b></a>
 </p>
 
 <h3 align="center">Activities</h3>
