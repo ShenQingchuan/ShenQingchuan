@@ -35,6 +35,7 @@
     <code> <a href="https://twitter.com/Shenqingchuan"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a></code> &nbsp;
     <code> <a href="https://www.zhihu.com/people/tang-meng-yu-53"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
     <code> <a href="https://weibo.com/u/6803477099"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
+        <code> <a href="https://space.bilibili.com/7473239"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
 </p>
 
 <table align="center">
