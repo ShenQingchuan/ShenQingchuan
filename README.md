@@ -15,6 +15,12 @@
     <code><img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png"></code> 
 </p>
 
+> ## 👨🏻‍💻 Recent activities / 最近在做的事 ...
+> 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
+> - 小程序前端 [tree-hole-wxapp](https://github.com/ShenQingchuan/Tree-hole)
+> - 小程序后端 [tree-hole-wxcloud](https://github.com/ShenQingchuan/Tree-hole_Cloud-BackEnd)
+
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
 </div>
