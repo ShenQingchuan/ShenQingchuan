@@ -16,9 +16,11 @@
 </p>
 
 > ## 👨🏻‍💻 Recent activities / 最近在做的事 ...
-> 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
+> **High Priority** 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
 > - 小程序前端 [tree-hole-wxapp](https://github.com/ShenQingchuan/Tree-hole)
 > - 小程序后端 [tree-hole-wxcloud](https://github.com/ShenQingchuan/Tree-hole_Cloud-BackEnd)
+> 
+> **#2 Priority** 构想与实现 Velum - Try Refactoring Vue.js with @sxzz - [👉🏻 Track this Repo](https://github.com/ShenQingchuan/velum)
 
 
 <div align="center">
