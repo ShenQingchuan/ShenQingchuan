@@ -16,13 +16,13 @@
 </p>
 
 > ## 👨🏻‍💻 Recent activities in Open Source / 最近在做的事 ...
-> 最近本职工作繁忙，也没干些啥 ...
-<!-- > **High Priority** 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
+<!-- > 最近本职工作繁忙，也没干些啥 ... -->
+> **High Priority** 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
 > - 小程序前端 [tree-hole-wxapp](https://github.com/ShenQingchuan/Tree-hole)
 > - 小程序后端 [tree-hole-wxcloud](https://github.com/ShenQingchuan/Tree-hole_Cloud-BackEnd)
-> 
-> **#2 Priority** 构想与实现 Velum - Try Refactoring Vue.js with [@sxzz](https://github.com/sxzz) - [👉🏻 Track this Repo](https://github.com/ShenQingchuan/velum) -->
-
+<!-- > 
+> **#2 Priority** 构想与实现 Velum - Try Refactoring Vue.js with [@sxzz](https://github.com/sxzz) - [👉🏻 Track this Repo](https://github.com/ShenQingchuan/velum)
+ -->
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
