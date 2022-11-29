@@ -37,7 +37,7 @@
 <h3 align="center">Social</h3>
 <p align="center">
     <samp>
-       Email: tmy991106@gmail.com
+       Email: <a href="mailto:tmy991106@gmail.com">tmy991106@gmail.com</a>
     </samp>
     <br/><br/>
     <code> <a href="https://web.okjike.com/u/AB2C438B-6A6A-4625-9722-23A816DFB768"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096676-6095c719-4cf5-4148-afc2-a00b256b6e40.png"></a></code> &nbsp;
