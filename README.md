@@ -15,15 +15,6 @@
     <code><img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png"></code> 
 </p>
 
-<!-- > ## 👨🏻‍💻 Recent activities in Open Source / 最近在做的事 ... -->
-<!-- > 最近本职工作繁忙，也没干些啥 ... -->
-<!-- > **High Priority** 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
-> - 小程序前端 [tree-hole-wxapp](https://github.com/ShenQingchuan/Tree-hole)
-> - 小程序后端 [tree-hole-wxcloud](https://github.com/ShenQingchuan/Tree-hole_Cloud-BackEnd) -->
-<!-- > 
-> **#2 Priority** 构想与实现 Velum - Try Refactoring Vue.js with [@sxzz](https://github.com/sxzz) - [👉🏻 Track this Repo](https://github.com/ShenQingchuan/velum)
- -->
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
 </div>
@@ -71,7 +62,7 @@
     <tr>
         <td align="center">
               <div><b><em><spam>Statistics</spam></em></b></div>
-              <img align="left" src="https://metrics.lecoq.io/ShenQingchuan?template=classic&base.header=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
+              <img align="left" src="./base_metrics.svg" />
         </td>
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
