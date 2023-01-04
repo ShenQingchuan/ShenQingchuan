@@ -1,0 +1,25 @@
+name: GitHub metrics
+on:
+  schedule: 
+      - cron: "0 0 * * *"
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # base metrics
+      - name: base_metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: base_metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: ShenQingchuan
+          template: classic
+          config_timezone: Asia/Shanghai
+          committer_message: ":rocket: chore: update metrics image"
+          base: "header, activity, community, repositories"
+          plugin_traffic: yes
+          plugin_lines: yes
