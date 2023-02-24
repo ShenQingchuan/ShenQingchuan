@@ -92,7 +92,6 @@
         <span>&nbsp;&nbsp;&nbsp;</span>
         <img width="160px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
         <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="200px" src="https://user-images.githubusercontent.com/46062972/190098300-f9aa3a1f-5898-43d0-ba3e-f7e1d95ca507.png" />
       </a>
     </div>
 </p>
