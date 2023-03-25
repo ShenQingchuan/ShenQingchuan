@@ -17,6 +17,9 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31blxbywlqvaz2xcqw4v3a6kmag4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)    
+    
 </div>
 <p align="center">
     <samp>
