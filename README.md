@@ -2,21 +2,24 @@
 <img align="left" src="https://raw.githubusercontent.com/L0um15/L0um15/master/svg/artificialintelligence.svg" height="162px" />
 </div>
 
-<h1 align="center">Hi，ShenQingchuan here!</h1>
+<h1 align="center">
+Hi，ShenQingchuan here!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=355&vCenter=true&hCenter=true&lines=Inspire+creativity%2C+Enrich+life)](https://git.io/typing-svg)
+</h1>
 
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-    <code><img height="20" src="https://user-images.githubusercontent.com/46062972/136497244-be103dd7-7bb0-4488-9727-655889b8ce0d.png"></code> 
-    <code><img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png"></code> 
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">&nbsp;&nbsp;
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;
+    <img height="20" src="https://user-images.githubusercontent.com/46062972/136497244-be103dd7-7bb0-4488-9727-655889b8ce0d.png">&nbsp;&nbsp;
+    <img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png">&nbsp;&nbsp;
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31blxbywlqvaz2xcqw4v3a6kmag4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)    
     
@@ -29,16 +32,21 @@
 </p>
 
 <h3 align="center">Social</h3>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/46062972/231430060-1ff612e2-a8d1-4717-b181-0a6e83fcb2c5.png" alt="xlogLogo" width="24" height="24" /> &nbsp;&nbsp; <a href="https://shenqingchuan.xlog.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=FE7543&hCenter=true&vCenter=true&repeat=false&width=300&height=24&lines=https%3A%2F%2Fshenqingchuan.xlog.app" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
     <samp>
        Email: <a href="mailto:tmy991106@gmail.com">tmy991106@gmail.com</a>
     </samp>
     <br/><br/>
-    <code> <a href="https://web.okjike.com/u/AB2C438B-6A6A-4625-9722-23A816DFB768"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096676-6095c719-4cf5-4148-afc2-a00b256b6e40.png"></a></code> &nbsp;
-    <code> <a href="https://twitter.com/Shenqingchuan"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a></code> &nbsp;
-    <code> <a href="https://www.zhihu.com/people/tang-meng-yu-53"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
-    <code> <a href="https://weibo.com/u/6803477099"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
-        <code> <a href="https://space.bilibili.com/7473239"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
+    <a href="https://web.okjike.com/u/AB2C438B-6A6A-4625-9722-23A816DFB768"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096676-6095c719-4cf5-4148-afc2-a00b256b6e40.png"></a> &nbsp;&nbsp;
+    <a href="https://twitter.com/Shenqingchuan"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a> &nbsp;&nbsp;
+    <a href="https://www.zhihu.com/people/tang-meng-yu-53"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a> &nbsp;&nbsp;
+    <a href="https://weibo.com/u/6803477099"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a> &nbsp;&nbsp;
+    <a href="https://space.bilibili.com/7473239"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a> &nbsp;&nbsp;
 </p>
 
 <table align="center">
