@@ -34,7 +34,12 @@ Hi，ShenQingchuan here!
 <h3 align="center">Social</h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/46062972/231430060-1ff612e2-a8d1-4717-b181-0a6e83fcb2c5.png" alt="xlogLogo" width="24" height="24" /> &nbsp;&nbsp; <a href="https://xlog.htcube.top"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=FE7543&hCenter=true&vCenter=true&repeat=false&width=300&height=24&lines=https%3A%2F%2Fshenqingchuan.xlog.app" alt="Typing SVG" /></a>
+  <a href="https://xlog.htcube.top">
+    <img src="https://user-images.githubusercontent.com/46062972/231430060-1ff612e2-a8d1-4717-b181-0a6e83fcb2c5.png" alt="xlogLogo" width="24" height="24" /> 
+  </a> &nbsp;&nbsp; 
+  <a href="https://xlog.htcube.top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=FE7543&hCenter=true&vCenter=true&repeat=false&width=300&height=24&lines=https%3A%2F%2Fshenqingchuan.xlog.app" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
