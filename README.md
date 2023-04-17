@@ -27,9 +27,12 @@ Hi，ShenQingchuan here!
 <p align="center">
     <samp>
     I am a front-end developer now, love Vue/Vite and open-source contribution. <br>
-    I'm working at Bytedance（字节跳动）—— Lark Mail.
     </samp>
 </p>
+
+<h3 align="center">
+    I'm seeking for my new job now.
+</h3>
 
 <h3 align="center">Social</h3>
 
