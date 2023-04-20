@@ -99,7 +99,11 @@ Hi，ShenQingchuan here!
     </tr>
 </table>
 
-<h3 align="center">My Memes</h3>
+<details>
+<summary>
+    <h3 align="center">My Memes</h3>
+</summary>
+    
 
 <p
     <samp> <b>龙，答应我，收购苹果。</b> </samp>
@@ -114,3 +118,5 @@ Hi，ShenQingchuan here!
       </a>
     </div>
 </p>
+
+</details>
