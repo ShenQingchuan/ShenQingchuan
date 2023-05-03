@@ -32,7 +32,7 @@ Hi，ShenQingchuan here!
 
 <h3 align="center">
     <samp>I'm seeking for my new job now. 
-    <a href="https://github.com/ShenQingchuan/ShenQingchuan/blob/main/%E5%94%90%E6%A2%A6%E4%BA%88%E7%AE%80%E5%8E%86.pdf">Check my CV here.</a>
+    <!-- <a href="https://github.com/ShenQingchuan/ShenQingchuan/blob/main/%E5%94%90%E6%A2%A6%E4%BA%88%E7%AE%80%E5%8E%86.pdf">Check my CV here.</a> -->
     </samp>
 </h3>
 
