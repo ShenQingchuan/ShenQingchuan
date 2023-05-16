@@ -88,12 +88,14 @@ Hi，ShenQingchuan here!
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
-                <li >🔭 I’m currently working on <a href="https://github.com/vitejs/docs-cn">docs-cn</a> maintaining ... </li>
+                <li >🔭 I’m currently working on 
+                    <a href="https://github.com/vitejs/docs-cn">Vite Chinese docs</a> & 
+                    <a href="https://github.com/rollup/rollup-docs-cn">Rollup Chinese docs</a> maintaining ... </li>
                 <li >💻 I’m interested in making useful terminal (CLI) application. e.g.
                     <a href="https://github.com/ShenQingchuan/meditate">Meditate</a>, 
                     <a href="https://github.com/ShenQingchuan/tsc-err-dirs">tsc-err-dirs</a> 
                 </li>
-                <li >🌱 I’m currently learning Rust、WindiCSS ... </li>
+                <li >🌱 I’m currently learning Vue core mechanism... </li>
                 <li >🔧 I’m refactoring my graduation design works - a WSIWYG and collaborative editor <a href="https://github.com/ShenQingchuan/HeteroDoc">HeteroDoc</a> </li>
                 <li>⛺️ I have a private site: <a href="https://heterocube.top">Heterocube</a>, you're welcome to come!~ </li>
             </ul>
