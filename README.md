@@ -8,6 +8,10 @@ Hi，ShenQingchuan here!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=355&vCenter=true&hCenter=true&lines=Inspire+creativity%2C+Enrich+life)](https://git.io/typing-svg)
 </h1>
 
+<h3 align="center">
+    <samp>I'm seeking for my new job now. </samp>
+</h3>
+
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
@@ -35,11 +39,11 @@ Hi，ShenQingchuan here!
     </samp>
 </p>
 
-<h3 align="center">
-    <samp>I'm seeking for my new job now. 
-    <!-- <a href="https://github.com/ShenQingchuan/ShenQingchuan/blob/main/%E5%94%90%E6%A2%A6%E4%BA%88%E7%AE%80%E5%8E%86.pdf">Check my CV here.</a> -->
-    </samp>
-</h3>
+<h3 align="center">Sponsors</h3>
+
+<div align="center">
+    <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/sponsors.svg" alt="sponsors" />
+</div>
 
 <h3 align="center">Social</h3>
 
