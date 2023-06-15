@@ -5,7 +5,7 @@
 <h1 align="center">
 Hi，ShenQingchuan here!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=355&vCenter=true&hCenter=true&lines=Inspire+creativity%2C+Enrich+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&repeat=false&width=435&lines=Inspire+Creativity%2C+Enrich+Life)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">
