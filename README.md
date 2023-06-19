@@ -26,11 +26,6 @@ Hi，ShenQingchuan here!
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShenQingchuan/github-stats-transparent/output/generated/languages.svg" alt="languages-statistics" />   
-  <img src="https://raw.githubusercontent.com/ShenQingchuan/github-stats-transparent/output/generated/overview.svg" alt="overview-statistics" />
-</div>
-
-<div align="center">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31blxbywlqvaz2xcqw4v3a6kmag4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)    
     
