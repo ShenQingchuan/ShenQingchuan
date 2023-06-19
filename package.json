@@ -1,7 +1,8 @@
 {
   "name": "my-github-static",
   "scripts": {
-    "sponsors:build": "sponsorkit --dir=. -w=800"
+    "sponsors:build": "sponsorkit --dir=. -w=800",
+    "afadian:build": "sponsorkit --dir=. -w=800 --name=afadian"
   },
   "devDependencies": {
     "sponsorkit": "^0.8.3"

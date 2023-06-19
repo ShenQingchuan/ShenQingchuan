@@ -20,16 +20,22 @@ jobs:
 
       - run: npx pnpm i
 
-      - name: Update sponsors
+      - name: Update github sponsors
         run: npm run sponsors:build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ShenQingchuan
 
+      - name: Update afadian sponsors
+        run: npm run afadian:build
+        env:
+          SPONSORKIT_AFDIAN_USER_ID: 73192ac20e6511eea00f5254001e7c00
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.AFADIAN_TOKEN }}
+
       - name: Commit
         uses: EndBug/add-and-commit@v4
         with:
-          message: "chore: update sponsors.svg"
-          add: "sponsors.*"
+          message: "chore: update all sponsors images"
+          add: "*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
