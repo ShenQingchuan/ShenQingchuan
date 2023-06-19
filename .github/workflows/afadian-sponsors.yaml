@@ -1,0 +1,35 @@
+name: Afadian Sponsors Image Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [ master ]
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set node
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+
+      - run: npx pnpm i
+
+      - name: Update afadian sponsors
+        run: npm run afadian:build
+        env:
+          SPONSORKIT_AFDIAN_USER_ID: 73192ac20e6511eea00f5254001e7c00
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.AFADIAN_TOKEN }}
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "chore: update all sponsors images"
+          add: "*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
