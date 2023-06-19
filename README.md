@@ -31,19 +31,6 @@ Hi，ShenQingchuan here!
     
 </div>
 
-<table align="center">
-    <tr>
-        <td align="center">
-              <div><b><em><spam>Github Sponsors</spam></em></b></div>
-              <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/sponsors.svg" alt="sponsors" />
-        </td>
-        <td align="left">
-            <div align="center"><b><em><spam>Afdian Sponsors</spam></em></b></div>
-            <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/afadian.svg" alt="sponsors" />
-        </td>
-    </tr>
-</table>
-
 <h3 align="center">Social</h3>
 
 <div align="center">
@@ -124,7 +111,19 @@ Hi，ShenQingchuan here!
     <h3 align="center">My Memes</h3>
 </summary>
     
-
+<table align="center">
+    <tr>
+        <td align="center">
+              <div><b><em><spam>Github Sponsors</spam></em></b></div>
+              <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/sponsors.svg" alt="sponsors" />
+        </td>
+        <td align="left">
+            <div align="center"><b><em><spam>Afdian Sponsors</spam></em></b></div>
+            <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/afadian.svg" alt="sponsors" />
+        </td>
+    </tr>
+</table>
+    
 <p
     <samp> <b>龙，答应我，收购苹果。</b> </samp>
     <div align="left">
