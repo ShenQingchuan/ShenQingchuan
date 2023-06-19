@@ -8,9 +8,11 @@ Hi，ShenQingchuan here!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&repeat=false&width=435&lines=Inspire+Creativity%2C+Enrich+Life)](https://git.io/typing-svg)
 </h1>
 
-<h3 align="center">
-    <samp>I'm seeking for my new job now. </samp>
-</h3>
+<p align="center">
+    <samp>
+    I am a front-end developer now, love Vue/Vite and open-source contribution. <br>
+    </samp>
+</p>
 
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
@@ -33,17 +35,19 @@ Hi，ShenQingchuan here!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31blxbywlqvaz2xcqw4v3a6kmag4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)    
     
 </div>
-<p align="center">
-    <samp>
-    I am a front-end developer now, love Vue/Vite and open-source contribution. <br>
-    </samp>
-</p>
 
-<h3 align="center">Sponsors</h3>
-
-<div align="center">
-    <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/sponsors.svg" alt="sponsors" />
-</div>
+<table align="center">
+    <tr>
+        <td align="center">
+              <div><b><em><spam>Github Sponsors</spam></em></b></div>
+              <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/sponsors.svg" alt="sponsors" />
+        </td>
+        <td align="left">
+            <div align="center"><b><em><spam>Afdian Sponsors</spam></em></b></div>
+            <image src="https://raw.githubusercontent.com/ShenQingchuan/ShenQingchuan/main/afadian.svg" alt="sponsors" />
+        </td>
+    </tr>
+</table>
 
 <h3 align="center">Social</h3>
 
