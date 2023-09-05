@@ -73,6 +73,21 @@ Hi，ShenQingchuan here!
 
 <h3 align="center">Activities</h3>
 
+<details align="center">
+<summary>
+  欢迎加入我的知识星球：
+  <br><br>
+  <img width="329" alt="space-qr-code" src="https://github.com/ShenQingchuan/ShenQingchuan/assets/46062972/bac01b01-6c9c-431b-8e3b-1cf25d51ac5c" /> 
+  <br><br>
+</summary>
+
+<div align="center">
+    <br>
+    <img width="219" alt="image" src="https://github.com/ShenQingchuan/ShenQingchuan/assets/46062972/d41d7ea3-ce92-47c5-8bd1-5bc594111fb5">
+    <br>
+</div>
+
+</details>
 
 <table align="center">
     <tr>
