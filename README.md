@@ -75,7 +75,7 @@ Hi，ShenQingchuan here!
 
 <details align="center">
 <summary>
-  欢迎加入我的知识星球：
+  欢迎加入我的知识星球：「 展开查看 2023 年 9 月 专享优惠券 」
   <br><br>
   <img width="329" alt="space-qr-code" src="https://github.com/ShenQingchuan/ShenQingchuan/assets/46062972/bac01b01-6c9c-431b-8e3b-1cf25d51ac5c" /> 
   <br><br>
