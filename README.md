@@ -73,21 +73,15 @@ Hi，ShenQingchuan here!
 
 <h3 align="center">Activities</h3>
 
-<details align="center">
-<summary>
-  欢迎加入我的知识星球：「 展开查看 2023 年 9 月 专享优惠券 」
+<div align="center">
+<p>
+  欢迎加入我的知识星球：
   <br><br>
   <img width="329" alt="space-qr-code" src="https://github.com/ShenQingchuan/ShenQingchuan/assets/46062972/bac01b01-6c9c-431b-8e3b-1cf25d51ac5c" /> 
   <br><br>
-</summary>
+</p>
 
-<div align="center">
-    <br>
-    <img width="219" alt="image" src="https://github.com/ShenQingchuan/ShenQingchuan/assets/46062972/d41d7ea3-ce92-47c5-8bd1-5bc594111fb5">
-    <br>
 </div>
-
-</details>
 
 <table align="center">
     <tr>
@@ -100,23 +94,13 @@ Hi，ShenQingchuan here!
             <ul>
                 <li >
                     <a href="https://github.com/vue-vine/vue-vine">Vue Vine</a>
-                    🌱 I’m currently learning Vue core mechanism <br/>
-                    and developing a new style to manage Vue component.
+                    🌱 That's the main project I'm working on in OSS. <br/>
+                    Let's make a new style to manage Vue component.
                 </li>
                 <li >🔭 I’m currently working on 
                     <a href="https://github.com/vitejs/docs-cn">Vite Chinese docs</a> & 
-                    <a href="https://github.com/rollup/rollup-docs-cn">Rollup Chinese docs</a> maintaining ...
+                    <a href="https://github.com/rollup/rollup-docs-cn">Rollup Chinese docs</a> maintaining.
                 </li>
-                <li >
-                    🔧 I’m refactoring my graduation design works - a WSIWYG and collaborative editor
-                    <a href="https://github.com/ShenQingchuan/HeteroDoc">HeteroDoc</a>
-                </li>
-                <li >💻 I’m interested in making useful terminal (CLI) application. e.g.
-                    <a href="https://github.com/ShenQingchuan/meditate">Meditate</a>, 
-                    <a href="https://github.com/ShenQingchuan/tsc-err-dirs">tsc-err-dirs</a> 
-                </li>
-                <li>⛺️ I have a private site: <a href="https://heterocube.top">Heterocube</a>, you're welcome to come!~ </li>
-            </ul>
         </td>
     </tr>
 </table>
