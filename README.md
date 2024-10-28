@@ -62,11 +62,17 @@ Hi，ShenQingchuan here!
             </a>
             <div><b><em><spam>Discord</spam></em></b></div>
         </td>
-        <td align="center">
+        <!-- <td align="center">
             <a href="https://www.kookapp.cn/app/channels/1680614231520080/7765975899421527">
                 <img src="https://user-images.githubusercontent.com/46062972/190089430-4de2f728-4c97-45af-8a54-01b66a86a596.png" height="60px" />
             </a>
             <div><b><em><spam>KOOK</spam></em></b></div>
+        </td> -->
+        <td align="center">
+            <a href="https://oopz.cn/i/KAHQ4N">
+                <img src="https://github.com/user-attachments/assets/a984f73b-aad3-4bb2-b852-5d623c4a03a1" height="60px" />
+            </a>
+            <div><b><em><spam>OOPZ</spam></em></b></div>
         </td>
     </tr>
 </table>
