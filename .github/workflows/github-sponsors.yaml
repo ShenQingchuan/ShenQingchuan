@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: lts/*
 
-      - run: pnpm i
+      - run: pnpm i --no-frozen-lockfile
 
       - name: Update github sponsors
         run: npm run sponsors:build
