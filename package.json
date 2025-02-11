@@ -5,6 +5,6 @@
     "afadian:build": "sponsorkit --dir=. -w=800 --name=afadian"
   },
   "devDependencies": {
-    "sponsorkit": "^0.8.3"
+    "sponsorkit": "^0.16.0"
   }
 }
