@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: lts/*
 
-      - run: corepack enable && pnpm i
+      - run: pnpm i
 
       - name: Update github sponsors
         run: npm run sponsors:build
