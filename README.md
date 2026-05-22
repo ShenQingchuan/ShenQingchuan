@@ -130,7 +130,7 @@ Hi，ShenQingchuan here!
         <span>&nbsp;&nbsp;&nbsp;</span>
         <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
         <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="160px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
+        <img width="160px" alt="Zmjjkk_is_my_GOAT" src="https://github.com/user-attachments/assets/bad128ab-7cff-47d1-8147-9b895f35bed3" />
         <span>&nbsp;&nbsp;&nbsp;</span>
       </a>
     </div>
