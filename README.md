@@ -132,6 +132,7 @@ Hi，ShenQingchuan here!
         <span>&nbsp;&nbsp;&nbsp;</span>
         <img width="160px" alt="Zmjjkk_is_my_GOAT" src="https://github.com/user-attachments/assets/bad128ab-7cff-47d1-8147-9b895f35bed3" />
         <span>&nbsp;&nbsp;&nbsp;</span>
+        <img width="160px" alt="image" src="https://github.com/user-attachments/assets/ffb65b78-1d69-44c6-978d-39df2c6f1930" />
       </a>
     </div>
 </p>
