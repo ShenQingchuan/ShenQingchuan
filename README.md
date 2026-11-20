@@ -91,14 +91,19 @@ Hi，ShenQingchuan here!
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
+                <li>I made several projects these days: 
+                    <a href="https://github.com/kawapress/kawapress">KawaPress</a> &
+                    <a href="https://github.com/ShenQingchuan/astryx-vue">astryx-vue</a>.
+                </li>
                 <li >
                     <a href="https://github.com/vue-vine/vue-vine">Vue Vine</a>
                     🌱 That's the main project I'm working on in OSS. <br/>
                     Let's make a new style to manage Vue component.
                 </li>
-                <li >🔭 I’m currently working on 
+                <li >🔭 I participated in maintainance of
+                    <a href="https://github.com/vuejs-translations/docs-zh-cn">Vue.js Chinese docs</a> &
                     <a href="https://github.com/vitejs/docs-cn">Vite Chinese docs</a> & 
-                    <a href="https://github.com/rollup/rollup-docs-cn">Rollup Chinese docs</a> maintaining.
+                    <a href="https://github.com/rollup/rollup-docs-cn">Rollup Chinese docs</a>.
                 </li>
         </td>
     </tr>
